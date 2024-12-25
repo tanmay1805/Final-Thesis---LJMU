@@ -1,6 +1,6 @@
 # Final Thesis - LJMU - Comparative Study of Deep Learning models for ASL Recognition
 
---------------
+--------------------------
 
 This repo contains files that were used to conduct the comparative study for ASL recognition systems using deep learning models.
 
@@ -8,7 +8,7 @@ This repo contains files that were used to conduct the comparative study for ASL
 
 ### Data Preparation
 
--------------------------
+--------------------------
 
 For data preparation, the dataset was used from https://github.com/dxli94/WLASL/tree/master/start_kit
 
@@ -18,6 +18,7 @@ Another form of dataset is the parquet files taken from https://www.kaggle.com/d
 
 Final Dataset is available under https://drive.google.com/drive/folders/1l6Rre8Zya9amogycJyjme39Q6kgyNKd8?usp=sharing which is used for model training.
 
+File `Data Preparation And EDA/data.yaml` is used for YOLO model training.
 
 ### EDA
 
